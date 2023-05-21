@@ -1,0 +1,26 @@
+[{
+    "id":1,
+    "productDescription":"Timex White Dial Men's Watch -TW4B16400",
+    "cost":3495,
+    "image":"assets/img/featured1.png"
+},{
+    "id":2,
+    "productDescription":"Casio G-Shock Black Dial Mens Watch-G270",
+    "cost":9495,
+     "image":"assets/img/featured2.png"
+},{
+    "id":3,
+    "productDescription":"Casio G-Shock Black Dial Mens Watch-G272",
+    "cost":9495,
+     "image":"assets/img/featured3.png"
+},{
+    "id":4,
+    "productDescription":"Casio G-Shock Black Dial Mens Watch-G317",
+    "cost":10995,
+     "image":"assets/img/new1.png"
+}
+
+
+
+
+]
